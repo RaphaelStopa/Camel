@@ -6,3 +6,5 @@ Camel has several components that can be combined creating countless possibiliti
 ```
 Parei na parte da ligacao com mysql - falta ligar o properties e continuar as atividades
 ```
+
+![alt_text](https://github.com/RaphaelStopa/Camel/blob/master/1343896.jpg)
